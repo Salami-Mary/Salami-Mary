@@ -1,8 +1,8 @@
 ### Hiya! 👋
 
 I am Mary Salami, a Ph.D. student in Geography at University of California, Santa Barbara. I'm happy you've found yourself here.
-
-I am into AI, particularly NLP and have done pretty much with (research)[https://scholar.google.com/citations?hl=en&user=A5wFQmIAAAAJ]. I am expanding my knowledge in Geospatial AI and my current research spans around mobility analytics and machine learning 
+0
+I am into AI, particularly NLP and have done pretty much with [research](https://scholar.google.com/citations?hl=en&user=A5wFQmIAAAAJ). I am expanding my knowledge in Geospatial AI and my current research spans around mobility analytics and machine learning 
 
 My repositories contain interesting projects I have worked on.
 
