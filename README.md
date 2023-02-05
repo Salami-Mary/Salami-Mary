@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hiya! 👋
 
+I am Mary Salami, A PhD student in Geography at University of California, Santa Barbara  and I'm happy you've found yourself here.
 
-**Salami-Mary/Salami-Mary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am into AI, particularly NLP  and have done pretty much with Research.  I am expanding my knowledge in Geospatial AI and my current research spans around mobility analytics and machine learning 
 
-Here are some ideas to get you started:
+My repositories contain interesting projects I have worked on and some documentations of my learnings and notes.
 
-- 🔭 I’m currently working on using machine learning to understand fashion trajectories 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 Skills: Python | SQL | Data Analysis | R | Machine Learning | Deep Learning | Linux
+💬 Ask me about: NLP Research | Model Building | GIS analytics
+You can reach me via email, I'll be happy to chat.
+
+Here's my [website](https://salami-mary.github.io/)
 
