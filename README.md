@@ -10,7 +10,7 @@ My repositories contain interesting projects I have worked on.
 
 💬 Ask me about: NLP Research and GIS analytics
 
-You can reach me via email, I'll be happy to chat.
+You can reach me via [email](mailto:marysalami@ucsb.edu), I'll be happy to chat.
 
 Here's my [website](https://salami-mary.github.io/)
 
