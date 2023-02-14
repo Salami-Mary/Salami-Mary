@@ -8,7 +8,7 @@ My repositories contain interesting projects I have worked on.
 
 🌱 Skills: Python | SQL | Data Analysis | R | Machine Learning | Deep Learning | Linux
 
-💬 Ask me about: Spatial AI |GIS analytics | Movement Analytics
+💬 Ask me about: Spatial AI |GIS analytics | Movement Analytics | Computer Vision 
 
 You can reach me via [email](mailto:marysalami@ucsb.edu), I'll be happy to chat.
 
