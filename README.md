@@ -9,7 +9,7 @@
 - 🔭My current research spans around mobility analytics and machine learning  
   
 
-- 🌱 I’m currently learning machine learning with R / MLOps  
+- 🌱 I’m currently learning machine learning with R and MLOps  
   
 
 - ❓ Ask me about anything related to spatial AI, mobility analytics computer vision, and spatial information retrieval  
@@ -98,4 +98,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
