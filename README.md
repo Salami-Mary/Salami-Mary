@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning machine learning with R and MLOps  
   
 
-- ❓ Ask me about anything related to spatial AI, mobility analytics computer vision, and spatial information retrieval  
+- ❓ Ask me about anything related to spatial AI, mobility analytics, computer vision, and time series 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
