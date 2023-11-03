@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I am Mary Salami, a MA/Ph.D. student in Geographic Information Science  at the University of California, Santa Barbara</div>  
+### <div align="center">I am Mary Salami, a second-year graduate student in Geographic Information Science  at the University of California, Santa Barbara</div>  
   
 
 - 🔭My current research spans around mobility analytics and machine learning  
