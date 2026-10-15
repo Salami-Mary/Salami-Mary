@@ -14,11 +14,11 @@ I'm a PhD candidate in GIScience in the Spatial Climate Solutions Lab at UC Sant
 
 <a href="https://salami-mary.github.io/sparc-evac/"><img src="assets/sparc-evac-card.svg" alt="SPARC-Evac: Do LLM evacuation agents respond to the right wildfire cues? Research in progress." width="100%"></a>
 
-**[SPARC-Evac](https://salami-mary.github.io/sparc-evac/)** tests rule-based, persona-only, and GIS-grounded LLM agents on paired scenarios from the January 2025 Eaton Fire. Each pair is a controlled intervention on a single cue: fire distance, an evacuation order, neighbors leaving, or vehicle access. **Behavioral controls** (changes that should not matter, such as fact order, a paraphrase, or car color) measure how often an agent shifts for no reason, and deterministic GIS checks verify that its stated reasoning matches the map. *Research in progress; no results yet.* · [Project page](https://salami-mary.github.io/sparc-evac/) · [Repo](https://github.com/Salami-Mary/sparc-evac)
+**[SPARC-Evac](https://salami-mary.github.io/sparc-evac/)** asks whether LLM agents that simulate household evacuation respond to the right cues in the January 2025 Eaton Fire, using paired counterfactual tests grounded in hazards research. *Research in progress: full method and results coming with the paper. Watch this space.* · [Project page](https://salami-mary.github.io/sparc-evac/) · [Repo](https://github.com/Salami-Mary/sparc-evac)
 
 ## 🧭 Research themes
 
-- **Agent behavior under controlled interventions:** counterfactual tests of whether LLM agents respond to the right environmental causes, with behavioral controls ([SPARC-Evac](https://salami-mary.github.io/sparc-evac/)).
+- **Agent behavior under controlled interventions:** counterfactual tests of whether LLM agents respond to the right environmental causes ([SPARC-Evac](https://salami-mary.github.io/sparc-evac/)).
 - **Spatiotemporal behavior modeling:** hybrid HMM–LSTM segmentation of movement trajectories into behaviors; human movement during California wildfires from geotagged tweets.
 - **Generative models and GPU computing:** GAN-based fashion image generation (AFRIGAN, NeurIPS 2021 workshop); deep-learning Earth-science workloads benchmarked on multi-GPU and multi-cloud platforms (*International Journal of Digital Earth*, 2023).
 
