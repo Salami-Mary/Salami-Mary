@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Mary Salami</title>
+  <desc id="d">PhD candidate in GIScience at UC Santa Barbara. LLM agents, behavior modeling, counterfactual evaluation, GeoAI.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#315460" stroke-width="1" opacity=".45"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fb704a" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#fb704a" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="#092530"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <circle cx="1010" cy="70" r="250" fill="url(#glow)"/>
+    <g fill="none" stroke="#96bbac" stroke-linecap="round" opacity=".35">
+      <path d="M700 330L1210 40" stroke-width="7"/>
+      <path d="M760 -20L1200 260" stroke-width="5"/>
+    </g>
+    <path d="M985 -10C950 50 960 110 1000 150C1040 185 1080 205 1110 260" fill="none" stroke="#f98a5e" stroke-width="4" stroke-dasharray="10 8">
+      <animate attributeName="stroke-dashoffset" from="0" to="-36" dur="2.4s" repeatCount="indefinite"/>
+    </path>
+    <g transform="translate(80 0)">
+    <g stroke="#b9e2d2" stroke-width="1.5" opacity=".5" fill="none">
+      <path d="M820 210L880 170L930 220L870 250Z"/>
+      <path d="M880 170L960 150"/>
+    </g>
+    <g fill="#b9e2d2">
+      <circle cx="820" cy="210" r="6"/>
+      <circle cx="880" cy="170" r="6"/>
+      <circle cx="930" cy="220" r="6"/>
+      <circle cx="870" cy="250" r="6"/>
+      <circle cx="960" cy="150" r="7" fill="#f5f3eb"/>
+    </g>
+    <circle cx="960" cy="150" r="7" fill="none" stroke="#f5f3eb" stroke-width="2">
+      <animate attributeName="r" values="7;26" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".9;0" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    </g>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <text x="64" y="96" fill="#f58b5c" font-size="17" font-weight="700" letter-spacing="3.5">PHD CANDIDATE · GISCIENCE · UC SANTA BARBARA</text>
+      <text x="60" y="182" fill="#f5f3eb" font-size="80" font-weight="800" letter-spacing="-2.5">Mary Salami</text>
+      <text x="64" y="232" fill="#b9e2d2" font-size="25" font-weight="500">LLM agents · Behavior modeling · Counterfactual evaluation · GeoAI</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 290" role="img" aria-labelledby="t d">
+  <title id="t">SPARC-Evac</title>
+  <desc id="d">Currently working on SPARC-Evac: do LLM evacuation agents respond to the right wildfire cues? Controlled interventions, behavioral controls, information-state test, GIS checks. Research in progress.</desc>
+  <defs>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fb704a" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#fb704a" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="288" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="290" fill="#123540"/>
+    <circle cx="1060" cy="95" r="150" fill="url(#glow)"/>
+    <circle cx="1060" cy="95" r="26" fill="#f58b5c" opacity=".85"/>
+    <path d="M1040 -10C1015 40 1022 85 1050 115C1078 140 1100 160 1120 200" fill="none" stroke="#f98a5e" stroke-width="3.5" stroke-dasharray="8 7"/>
+    <circle cx="950" cy="205" r="11" fill="#b9e2d2" stroke="#123540" stroke-width="4"/>
+    <circle cx="950" cy="205" r="34" fill="none" stroke="#b9e2d2" stroke-dasharray="4 6" stroke-width="2"/>
+    <path d="M985 188L1030 160" stroke="#f4bf9e" stroke-width="2.5" stroke-dasharray="5 5">
+      <animate attributeName="stroke-dashoffset" from="0" to="-20" dur="1.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <rect x="1" y="1" width="1198" height="288" rx="18" fill="none" stroke="#45616a" stroke-width="2"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="48" y="62" fill="#f58b5c" font-size="15" font-weight="700" letter-spacing="3">CURRENTLY WORKING ON</text>
+    <text x="46" y="122" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#f5f3eb">SPARC<tspan fill="#f58b5c">/</tspan>Evac</text>
+    <text x="48" y="162" fill="#c3d6d3" font-size="23">Do LLM evacuation agents respond to the right wildfire cues?</text>
+    <g font-size="15" font-weight="600" fill="#d6e4e1">
+      <rect x="48" y="186" width="228" height="34" rx="17" fill="none" stroke="#5f8a8e"/>
+      <text x="162" y="208" text-anchor="middle">Controlled interventions</text>
+      <rect x="286" y="186" width="186" height="34" rx="17" fill="none" stroke="#5f8a8e"/>
+      <text x="379" y="208" text-anchor="middle">Behavioral controls</text>
+      <rect x="482" y="186" width="204" height="34" rx="17" fill="none" stroke="#5f8a8e"/>
+      <text x="584" y="208" text-anchor="middle">Information-state test</text>
+      <rect x="696" y="186" width="114" height="34" rx="17" fill="none" stroke="#5f8a8e"/>
+      <text x="753" y="208" text-anchor="middle">GIS checks</text>
+    </g>
+    <text x="48" y="256" fill="#9fbcbb" font-size="16">Eaton Fire, January 2025 · Research in progress</text>
+    <text x="810" y="256" fill="#f58b5c" font-size="16" font-weight="700" text-anchor="end">View project →</text>
+  </g>
+</svg>
